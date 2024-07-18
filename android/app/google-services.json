@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060916453307",
+    "project_id": "bytebank-60957",
+    "storage_bucket": "bytebank-60957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060916453307:android:6971ad49dcbf53df986e9e",
+        "android_client_info": {
+          "package_name": "com.example.byte_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQtIGgyFbkSJzICu6U9AO5n_BE0czDiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
